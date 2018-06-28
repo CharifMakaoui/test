@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Magnoliyan Video Chat</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="./mgVideoChat/mgVideoChat-1.13.2.css">
+</head>
+<body>
+
+<div id="mgVideoChat"></div>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script type="text/javascript" src="//netdna.bootstrapcdn.com/bootstrap/3.0.2/js/bootstrap.min.js"></script>
+<script src="//www.gstatic.com/firebasejs/5.1.0/firebase.js"></script>
+
+<script>
+    // Initialize Firebase
+    var config = {
+        apiKey: "AIzaSyDTHWurbG7oKXWDifn6OL_pTM8SwjtqOMg",
+        authDomain: "light-chate.firebaseapp.com",
+        databaseURL: "https://light-chate.firebaseio.com",
+        projectId: "light-chate",
+        storageBucket: "",
+        messagingSenderId: "52693363151"
+    };
+    firebase.initializeApp(config);
+</script>
+
+<script src="./mgVideoChat/mgVideoChat-1.13.2.js"></script>
+<script src="./mgVideoChat/authController.js"></script>
+
+
+<script>
+    var wsDomain = '';
+    if(!wsDomain){
+        wsDomain = document.domain;
+    }
+    wsPort = 8080;
+    wsProtocol = 'ws';
+    wsPath = '';
+
+    //get query string param
+    function getParameterByName(name) {
+        name = name.replace(/[\[]/, "\\\[").replace(/[\]]/, "\\\]");
+        var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+            results = regex.exec(location.search);
+        return results == null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+    }
+    //update query strung parameter
+    function updateQueryStringParameter(uri, key, value) {
+        var re = new RegExp("([?|&])" + key + "=.*?(&|$)", "i");
+        var separator = uri.indexOf('?') !== -1 ? "&" : "?";
+        if (uri.match(re)) {
+            return uri.replace(re, '$1' + key + "=" + value + '$2');
+        }
+        else {
+            return uri + separator + key + "=" + value;
+        }
+    }
+    //get random number
+    function getRandomInt (min, max) {
+        return Math.floor(Math.random() * (max - min + 1)) + min;
+    }
+
+    $(document).ready(function(){
+
+
+        //read chat room
+        var room = getParameterByName('room');
+        //no private chat room?
+        if(!room){
+            //get one
+            room = getRandomInt(1000, 100000);
+            //redirect to chat room url
+            window.location.href = updateQueryStringParameter(window.location.href,'room',room);
+        }
+        $('#privateUrl').text(window.location.href);
+
+        var wsUrlDefault = wsProtocol + '://' + wsDomain + ':' + wsPort + wsPath;
+
+        //init video chat
+        $('#mgVideoChat').mgVideoChat({
+            wsURL: wsUrlDefault + '?room=' + room
+        });
+    });
+</script>
+
+</body>
+</html>

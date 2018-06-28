@@ -1,0 +1,775 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8e24544f-b13e-4539-a5b2-7ae35dc603ff" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JOJOThemes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/img/info.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/img/warning.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/deployment.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/magnoliyan-homepage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/magnoliyan.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/video-chat-pro.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/web-cmd-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/web-cmd-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/chrome-ext/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/demos/common/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/demos/common/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/demos/common/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/mgVideoChat/images/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/mgVideoChat/images/local_audio.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/mgVideoChat/images/remote_audio.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/mgVideoChat/sounds/notify.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/mgVideoChat/sounds/notify.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/mgVideoChat/sounds/ring.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/mgVideoChat/sounds/ring.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/htdocs.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Visit for More!.url" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/documenter_style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/google-code-prettify/prettify.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/google-code-prettify/prettify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery.easing.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery.scrollTo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/changelog.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/chrome-ext/background.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/chrome-ext/content.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/chrome-ext/manifest.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/demos/api/call.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/demos/api/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/demos/api/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/demos/api/send_message.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/demos/common/css/amelia.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/demos/common/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/demos/common/css/cerulean.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/demos/common/css/cosmo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/demos/common/css/cyborg.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/demos/common/css/flatly.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/demos/common/css/journal.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/demos/common/css/readable.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/demos/common/css/simplex.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/demos/common/css/slate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/demos/common/css/spacelab.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/demos/common/css/united.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/demos/common/css/yeti.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/demos/common/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/demos/common/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/demos/common/js/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/demos/common/js/menu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/demos/common/js/mgvc.de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/demos/coturn/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/demos/desktop_capture/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/demos/facebook/channel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/demos/facebook/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/demos/file/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/demos/group/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/demos/i18n/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/demos/invite/assets/chosen-bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/demos/invite/assets/chosen.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/demos/invite/assets/chosen.jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/demos/invite/assets/sweetalert.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/demos/invite/assets/sweetalert.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/demos/invite/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/demos/private/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/demos/private_group/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/demos/roulette/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/demos/simple/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/demos/support/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/demos/support/operator.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/demos/turnservers/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/mgVideoChat/authController.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/mgVideoChat/mgVideoChat-1.13.2-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/mgVideoChat/mgVideoChat-1.13.2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/mgVideoChat/mgVideoChat-1.13.2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/mgVideoChat/partials/auto-update.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/mgVideoChat/partials/compile.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/mgVideoChat/partials/mgDesktopShare.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/mgVideoChat/partials/mgFileHelper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/mgVideoChat/partials/mgNotifications.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/mgVideoChat/partials/mgRtc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/mgVideoChat/partials/mgVideoChatBase.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/mgVideoChat/partials/mgVideoChatHeader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/mgVideoChat/partials/mgVideoChatRtcEvents.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/mgVideoChat/partials/mgVideoChatUI.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/mgVideoChat/partials/mgVideoChatUtils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/mgVideoChat/tpls/chat.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/mgVideoChat/tpls/chat_input.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/mgVideoChat/tpls/connection.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/mgVideoChat/tpls/connections.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/mgVideoChat/tpls/file.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/mgVideoChat/tpls/main.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/mgVideoChat/tpls/roulette.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/mgVideoChat/tpls/you.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/client/private.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/server/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/server/bin/chat-server.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/server/bin/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/server/bin/run.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/server/bin/run.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/server/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/server/composer.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/server/src/MgRTC/Chat.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/server/src/MgRTC/Daemon.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/server/src/MgRTC/Friendlist/CallableBase.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/server/src/MgRTC/Friendlist/CallableInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/server/src/MgRTC/Friendlist/CallableOperator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/server/src/MgRTC/Router.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/server/src/MgRTC/Server.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/server/src/MgRTC/Session/AuthAnonymous.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/server/src/MgRTC/Session/AuthBase.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/server/src/MgRTC/Session/AuthFacebook.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/server/src/MgRTC/Session/AuthFacebook2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/server/src/MgRTC/Session/AuthInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/server/src/MgRTC/Session/AuthSimple.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/server/src/MgRTC/Session/AuthWordpress.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/server/src/MgRTC/Session/Facebook/FacebookCli.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/server/src/MgRTC/Session/Facebook/FacebookCli2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/server/src/MgRTC/Session/SessionProvider.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/server/src/MgRTC/Web.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/server/web-commander/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/server/web-commander/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/turn-rest-api/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/turn-rest-api/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/turn-rest-api/turn.php" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/client/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="6" lean-forward="false" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="private.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/client/private.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="372">
+              <caret line="86" column="7" lean-forward="true" selection-start-line="86" selection-start-column="7" selection-end-line="86" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="authController.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/client/mgVideoChat/authController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="40" column="1" lean-forward="true" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
+              <folding>
+                <element signature="n#!!block;n#GoogleSignUp#0" expanded="false" />
+                <element signature="n#!!block;n#FacebookLogin#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/server/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/client/demos/facebook/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="45" column="45" lean-forward="false" selection-start-line="45" selection-start-column="34" selection-end-line="45" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>wsDomain</find>
+      <find>privateUrl</find>
+      <find>chat.ht</find>
+      <find>loginButton</find>
+      <find>onLogin</find>
+      <find>setC</find>
+      <find>setCook</find>
+      <find>mgVideoChatSimple</find>
+      <find>loginDialog</find>
+      <find>debug</find>
+      <find>loginParams</find>
+      <find>login</find>
+      <find>name</find>
+      <find>userData</find>
+      <find>tmpl</find>
+      <find>email</find>
+      <find>mgVideoChat</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/source/server/src/MgRTC/Daemon.php" />
+        <option value="$PROJECT_DIR$/source/server/src/MgRTC/Chat.php" />
+        <option value="$PROJECT_DIR$/source/client/demos/private/index.html" />
+        <option value="$PROJECT_DIR$/source/client/mgVideoChat/tpls/chat.html" />
+        <option value="$PROJECT_DIR$/source/client/mgVideoChat/tpls/chat_input.html" />
+        <option value="$PROJECT_DIR$/source/client/mgVideoChat/tpls/file.html" />
+        <option value="$PROJECT_DIR$/source/client/mgVideoChat/tpls/roulette.html" />
+        <option value="$PROJECT_DIR$/source/client/mgVideoChat/tpls/you.html" />
+        <option value="$PROJECT_DIR$/source/client/mgVideoChat/mgVideoChat-1.13.2.css" />
+        <option value="$PROJECT_DIR$/source/client/mgVideoChat/tpls/main.html" />
+        <option value="$PROJECT_DIR$/source/client/mgVideoChat/mgVideoChat-1.13.2.js" />
+        <option value="$PROJECT_DIR$/source/client/index.html" />
+        <option value="$PROJECT_DIR$/source/client/private.html" />
+        <option value="$PROJECT_DIR$/source/client/mgVideoChat/authController.js" />
+        <option value="$PROJECT_DIR$/source/server/.gitignore" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="866" />
+    <option name="height" value="775" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="htdocs" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="htdocs" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="source" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="htdocs" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="source" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="server" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e24544f-b13e-4539-a5b2-7ae35dc603ff" name="Default" comment="" />
+      <created>1530205538814</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530205538814</updated>
+      <workItem from="1530205540641" duration="10360000" />
+      <workItem from="1530216837289" duration="1765000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12125000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25340393" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/source/client/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="6" lean-forward="false" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/client/mgVideoChat/authController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" column="17" lean-forward="false" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
+          <folding>
+            <element signature="n#!!block;n#GoogleSignUp#0" expanded="false" />
+            <element signature="n#!!block;n#FacebookLogin#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/client/demos/facebook/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" column="45" lean-forward="false" selection-start-line="45" selection-start-column="34" selection-end-line="45" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/img/info.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/img/warning.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/documenter_style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1105">
+          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/google-code-prettify/prettify.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-412">
+          <caret line="13" column="4" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/server/web-commander/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-646">
+          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/server/web-commander/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2251">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/server/src/MgRTC/Web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/server/src/MgRTC/Server.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/server/src/MgRTC/Friendlist/CallableBase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-160">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/server/src/MgRTC/Friendlist/CallableInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/server/src/MgRTC/Friendlist/CallableOperator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/server/src/MgRTC/Session/Facebook/FacebookCli.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/server/src/MgRTC/Session/Facebook/FacebookCli2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-153">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/server/src/MgRTC/Session/AuthFacebook.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/server/src/MgRTC/Session/AuthFacebook2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-262">
+          <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/server/src/MgRTC/Router.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-463">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/server/src/MgRTC/Daemon.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2125">
+          <caret line="125" column="26" lean-forward="false" selection-start-line="125" selection-start-column="26" selection-end-line="125" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/server/src/MgRTC/Chat.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="107" column="5" lean-forward="true" selection-start-line="107" selection-start-column="5" selection-end-line="107" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/turn-rest-api/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/client/mgVideoChat/partials/auto-update.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/client/demos/i18n/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/client/demos/invite/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/client/demos/common/js/menu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="90" column="4" lean-forward="true" selection-start-line="90" selection-start-column="4" selection-end-line="90" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/client/demos/private/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/client/mgVideoChat/tpls/chat.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/client/mgVideoChat/tpls/chat_input.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/client/mgVideoChat/tpls/connections.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/client/mgVideoChat/tpls/file.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/client/mgVideoChat/tpls/roulette.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="6" lean-forward="false" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/client/mgVideoChat/tpls/you.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="62" lean-forward="false" selection-start-line="6" selection-start-column="62" selection-end-line="6" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/client/mgVideoChat/tpls/connection.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="6" lean-forward="false" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/client/mgVideoChat/mgVideoChat-1.13.2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="503">
+          <caret line="670" column="0" lean-forward="false" selection-start-line="670" selection-start-column="0" selection-end-line="683" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/client/mgVideoChat/tpls/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="63" column="34" lean-forward="true" selection-start-line="63" selection-start-column="34" selection-end-line="63" selection-end-column="34" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#0;n#div#0;n#div#0;n#section#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#p#1;n#div#0;n#div#0;n#div#0;n#section#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/client/mgVideoChat/mgVideoChat-1.13.2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="1209" column="30" lean-forward="false" selection-start-line="1209" selection-start-column="25" selection-end-line="1209" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/client/mgVideoChat/partials/mgVideoChatUI.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="40" column="34" lean-forward="true" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/client/mgVideoChat/partials/compile.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/client/mgVideoChat/partials/mgRtc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1003">
+          <caret line="1" column="20" lean-forward="false" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/client/demos/facebook/channel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="24" lean-forward="true" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/client/demos/facebook/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="45" column="45" lean-forward="false" selection-start-line="45" selection-start-column="34" selection-end-line="45" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/client/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="6" lean-forward="false" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/client/private.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="86" column="7" lean-forward="true" selection-start-line="86" selection-start-column="7" selection-end-line="86" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/client/mgVideoChat/authController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="40" column="1" lean-forward="true" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!block;n#GoogleSignUp#0" expanded="false" />
+            <element signature="n#!!block;n#FacebookLogin#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/server/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
